@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Joshua Grant 👋</h1>
+<h1 align="left">Hi, I'm Josh 👋</h1>
 
 ###
 

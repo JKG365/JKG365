@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Master's candidate in Data Science & Analytics at Clemson University, building structured analytics systems that connect business objectives with technical execution. I translate business requirements into scalable data workflows, implement business logic in code, engineer performance metrics, and develop dashboards that drive measurable, data-driven decisions.</p>
+<p align="left">I'm a Master's candidate in Data Science & Analytics at Clemson University, focused on building end-to-end analytics systems that drive operational performance. I translate business requirements into scalable data workflows, implement business logic in code, engineer KPI frameworks, and develop interactive dashboards that support data-driven decision-making across supply chain and business operations.</p>
 
 ###
 
